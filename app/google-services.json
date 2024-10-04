@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "353224059889",
+    "firebase_url": "https://prog7311-poe-part-2-d117e-default-rtdb.firebaseio.com",
+    "project_id": "prog7311-poe-part-2-d117e",
+    "storage_bucket": "prog7311-poe-part-2-d117e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353224059889:android:76d15e11b28981c29df250",
+        "android_client_info": {
+          "package_name": "com.example.opsc7311poepart3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC71P1FH1fKJiroDOtJHtGFohZpeWQXA3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353224059889:android:006c4bdc0d1c02fd9df250",
+        "android_client_info": {
+          "package_name": "com.example.st10053116icetask4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC71P1FH1fKJiroDOtJHtGFohZpeWQXA3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
